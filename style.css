@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(88, 39, 88);
+}
+.container{
+    max-width: 400px;
+}
+.todos li{
+    background-color: rgb(77, 14, 77);
+}
+.delete{
+    cursor: pointer;
+}
+.filtered{
+    display: none !important;
+}
